@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME: SANTHOSH KUMAR R</H3>
+<H3>ENTER YOUR REGISTER NO: 212223240153</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:18/08/2026</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
